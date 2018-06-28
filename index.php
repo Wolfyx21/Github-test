@@ -8,11 +8,15 @@
     <style>
     body{
         background: yellow;
+        background-image: url("https://www.papillesetpupilles.fr/wp-content/uploads/2016/09/Poulet-a-la-courge-butternut.jpg");
+        background-repeat: no-repeat;
+        text-align: center;
+        height: 30px;
     }
         h1{
             position: absolute;
             top: 45%;
-            left: 45%;
+            left: 30%;
             color: blue;
         }
     </style>
